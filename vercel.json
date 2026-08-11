@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://reserva-churrasqueiras.claudionh26.chatgpt.site/:path*",
+      "permanent": false
+    }
+  ]
+}
